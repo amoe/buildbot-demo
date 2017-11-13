@@ -8,6 +8,8 @@
   <artifactId>selenium-demo</artifactId>
   <version>1.0-SNAPSHOT</version>
 
+  <!-- pom.xml -->
+
   <build>
     <plugins>
       <plugin>
